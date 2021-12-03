@@ -32,3 +32,7 @@ w(단어 앞으로 이동) -> dw(현재 단어 끝까지 자라내기) -> i(현�
 
   ![vimgolf_4_result](https://user-images.githubusercontent.com/66362763/144660891-c0303dbd-dabd-432d-931e-655f131d7dcb.png)
 
+  ![vim_golf5](https://user-images.githubusercontent.com/66362763/144660938-798df14c-5f49-4882-85f1-5989a1f1e410.gif)
+
+  ![vimgolf_5_result](https://user-images.githubusercontent.com/66362763/144660944-771c852c-9baf-4f18-ad18-7b0b5dbf06e4.png)
+
