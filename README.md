@@ -27,3 +27,8 @@ w(단어 앞으로 이동) -> dw(현재 단어 끝까지 자라내기) -> i(현�
  -> ctrl+ZZ(나가기)
 
 ![vimgolf_3_result](https://user-images.githubusercontent.com/66362763/144610135-85035d12-38d9-4663-9f92-c2dbf841e778.png)
+  
+  ![vimgolf_4](https://user-images.githubusercontent.com/66362763/144660874-310ad841-31da-49c9-a472-5289effee857.gif)
+
+  ![vimgolf_4_result](https://user-images.githubusercontent.com/66362763/144660891-c0303dbd-dabd-432d-931e-655f131d7dcb.png)
+
