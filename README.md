@@ -8,4 +8,8 @@ G: 파일의 마지막 줄로 이동 -> W: 단어 시작점으로 이동 -> i: �
 
 ![image](https://user-images.githubusercontent.com/66362763/144481219-73351fe4-b76d-40ee-9d41-cb0939db6f3e.png)
 
+![vimgolf_2](https://user-images.githubusercontent.com/66362763/144597080-511cedfb-2e56-4328-9582-af8a8dca9a96.gif)
+
+![vimgolf_2_result](https://user-images.githubusercontent.com/66362763/144597594-8c9d5700-f0c3-4a66-90d8-d6ef5f2e1c5d.png)
+
 
