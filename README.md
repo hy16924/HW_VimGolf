@@ -22,17 +22,23 @@ w(단어 앞으로 이동) -> dw(현재 단어 끝까지 자라내기) -> i(현�
   
  -> 6+G(6번째 행으로 이동) -> .(dot)(마지막 동작 반복) -> w(단어 이동) -> dw(현재 단어 삭제) -> a(현재 위치 다음 칸에서 입력 모드)
   
- -> "TODO"입력 -> <esc>(일반 모드로) -> b(단어 뒤로) -> yw(단어복사, TODO) ->  p(붙여넣기, 4번째 행 Version 뒤) -> dw(단어 삭제, string) 
+ -> "TODO"입력 -> <esc>(일반 모드로) -> b(단어 뒤로) -> yw(단어복사, TODO) ->  p(붙여넣기, 4번째 행 Version 뒤) 
   
- -> ctrl+ZZ(나가기)
+  -> dw(단어 삭제, string) -> ctrl+ZZ(나가기)
 
-![vimgolf_3_result](https://user-images.githubusercontent.com/66362763/144610135-85035d12-38d9-4663-9f92-c2dbf841e778.png)
+ ![vimgolf_3_result](https://user-images.githubusercontent.com/66362763/144610135-85035d12-38d9-4663-9f92-c2dbf841e778.png)
   
-  ![vimgolf_4](https://user-images.githubusercontent.com/66362763/144660874-310ad841-31da-49c9-a472-5289effee857.gif)
+ ![vimgolf_4](https://user-images.githubusercontent.com/66362763/144660874-310ad841-31da-49c9-a472-5289effee857.gif)
+  
+ ?k(위쪽으로 단어(k) 검색) -> r(한 글자만 바꾸기)+'g'/'r'/'b'(k를 g,r,b로) -> :%s/y1/abs(y1)(문자열 교체, y1->abs(y1)으로)
+  
+ -> { (단락 단위 이동, 앞쪽으로) -> ?1(위쪽으로 단어(1) 검색) -> r + '4'/'3'/'2'(1을 2,3,4로) -> .(dot)(마지막 동작 반복) 
+  
+ -> ctrl+ZZ(종료)
+  
+ ![vimgolf_4_result](https://user-images.githubusercontent.com/66362763/144660891-c0303dbd-dabd-432d-931e-655f131d7dcb.png)
 
-  ![vimgolf_4_result](https://user-images.githubusercontent.com/66362763/144660891-c0303dbd-dabd-432d-931e-655f131d7dcb.png)
+ ![vim_golf5](https://user-images.githubusercontent.com/66362763/144660938-798df14c-5f49-4882-85f1-5989a1f1e410.gif) 
 
-  ![vim_golf5](https://user-images.githubusercontent.com/66362763/144660938-798df14c-5f49-4882-85f1-5989a1f1e410.gif)
-
-  ![vimgolf_5_result](https://user-images.githubusercontent.com/66362763/144660944-771c852c-9baf-4f18-ad18-7b0b5dbf06e4.png)
+ ![vimgolf_5_result](https://user-images.githubusercontent.com/66362763/144660944-771c852c-9baf-4f18-ad18-7b0b5dbf06e4.png)
 
